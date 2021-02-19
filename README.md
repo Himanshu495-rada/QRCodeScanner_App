@@ -1,0 +1,1 @@
+# QRCodeScanner_App
